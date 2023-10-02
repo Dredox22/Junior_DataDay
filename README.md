@@ -27,3 +27,7 @@ ChatGPT, LLM, дообучение моделей на своих данных, 
 Советы для начинающих аналитиков и data scientists после курсов\вуза
 
 <br>
+
+<a href="https://youtu.be/DMptRXeE7tE" target="_blank"> Запись</a>
+
+<br>
